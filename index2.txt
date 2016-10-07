@@ -4,7 +4,6 @@
 		<ul>
 			<li>gach da </li>
 			<li>xi mang </li>
-			<li>cat </li>
 		</ul>
 	</div>
 	</body>
